@@ -4,7 +4,7 @@
 
 Le robot se met tout seul en point d'accès wifi lors du démarrage, il suffit donc de brancher l'Arduino, le pcduino, et après quelques minutes ( environ 5 ), le point d'accès Robotaf apparait dans la liste des reseau disponible.
 
-Il faut toutefois lancer à la main le terminal Erlang ainsi que le serveur d'écoute Java, pour cela il faut qu'un ordinateur se connecte en ssh via la commande 
+Il faut toutefois lancer à la main le terminal Erlang ainsi que le serveur d'écoute Java, pour cela il faut qu'un ordinateur se connecte en ssh via la commande ( mot de passe pour l'use ubuntu:ubuntu )
 
 ```
 ssh ubuntu@192.168.100.1
